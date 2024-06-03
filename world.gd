@@ -17,7 +17,7 @@ func _process(delta):
 func detector():
 	print("Emision recibida del player al world")
 	$AudioStreamPlayer2D.play()
-
+	#detect
 
 func creaciones():
 	var ene = preload("res://ene.tscn")
