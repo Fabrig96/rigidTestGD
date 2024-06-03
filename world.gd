@@ -11,6 +11,7 @@ func _ready():
 func _process(delta):
 	pass
 
+#change
 
 func detector():
 	print("Emision recibida del player al world")
